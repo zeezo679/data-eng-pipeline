@@ -30,3 +30,9 @@ The organization needs to predict which customers are likely to churn, but the r
 
 <img width="1338" height="596" alt="image" src="https://github.com/user-attachments/assets/bc9b6c87-5948-4b2d-8939-3e8ceb0d469c" />
 
+## Contributors
+
+- [Zeyad Abdallah](https://github.com/zeezo679)
+- [Mohamed Amgad](https://github.com/MohamedAmgad27)
+- [Mohamed Wael](https://github.com/waelm14)
+- Chris Mina
